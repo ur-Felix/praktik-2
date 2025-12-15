@@ -6,8 +6,8 @@ function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
 
   const userData = {
-    name: "Paskah Abadi Simanullang",
-    email: "paskahsimanullang24@gmail.com",
+    name: "Felix John Pardamean Hutabarat",
+    email: "hutabaratfelix8@gmail.com",
     avatar: "/vite.svg",
     joinDate: "2025-10-16"
   };
